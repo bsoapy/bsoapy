@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**bsoapy/bsoapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ben = {
+  pronouns: "he" | "him",
+  age: 22,
+  education: "BSc (Hons) Computer Science, First Class, Durham University",
+  work: "Incoming Software Engineer Analyst, MarketAxess",
+  syntax: {
+        programming: [Javascript, Python, C#, C++, C],
+        libraries: [Angular, React, Svelte, OpenCV, Scikit-Learn, Pytorch],
+        real: [English]
+   },
+   hobbies: ["badminton", "literature", "travelling"]
+}
+```
