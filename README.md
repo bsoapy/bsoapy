@@ -7,8 +7,8 @@ const ben = {
   syntax: {
         programming: [Javascript, Python, C#, C++, C],
         libraries: [Angular, React, Svelte, OpenCV, Scikit-Learn, Pytorch],
-        real: [English]
+        misc: [English]
    },
-   hobbies: ["badminton", "literature", "travelling"]
+   hobbies: ["sport", "travelling", "literature"]
 }
 ```
