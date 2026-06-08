@@ -1,7 +1,7 @@
 ```javascript
 const ben = {
   pronouns: "he" | "him",
-  age: 22,
+  age: 23,
   education: "BSc (Hons) Computer Science, First Class, Durham University",
   work: "Software Engineer Analyst, MarketAxess",
   syntax: {
